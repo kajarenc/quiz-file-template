@@ -1,0 +1,52 @@
+[
+  {
+    "question_text": "What's the capital of Bulgaria?",
+    "right_answer": "Sofia",
+    "wrong_answers": ["Budapest", "Bucharest", "Lyubljana"]
+  },
+  {
+    "question_text": "What's the capital of Slovenia?",
+    "right_answer": "Lyubljana",
+    "wrong_answers": ["Budapest", "Bucharest", "Sofia"]
+  },
+  {
+    "question_text": "What's the capital of Spain?",
+    "right_answer": "Madrid",
+    "wrong_answers": ["Paris", "Portu", "Barcelona"]
+  },
+  {
+    "question_text": "What's the capital of Poland?",
+    "right_answer": "Warsaw",
+    "wrong_answers": ["Krakov", "Lviv", "Kiev"]
+  },
+  {
+    "question_text": "What's the capital of Norway?",
+    "right_answer": "Oslo",
+    "wrong_answers": ["Prague", "Helsinki", "Talin"]
+  },
+  {
+    "question_text": "What's the capital of Portugal?",
+    "right_answer": "Lisbon",
+    "wrong_answers": ["Portu", "Madrid", "Paris"]
+  },
+  {
+    "question_text": "What's the capital of Finland?",
+    "right_answer": "Helsinkhy",
+    "wrong_answers": ["Budapest", "Talin", "Oslo"]
+  },
+  {
+    "question_text": "What's the capital of Belarus?",
+    "right_answer": "Minsk",
+    "wrong_answers": ["Zagreb", "Kharkiv", "Moscow"]
+  },
+  {
+    "question_text": "What's the capital of Russia?",
+    "right_answer": "Moscow",
+    "wrong_answers": ["St. Petersburg", "Kiev", "Minsk"]
+  },
+  {
+    "question_text": "What's the capital of Croatia?",
+    "right_answer": "Zagreb",
+    "wrong_answers": ["Warsaw", "Helsinki", "Talin"]
+  }
+]
